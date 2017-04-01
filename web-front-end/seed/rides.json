@@ -1,0 +1,19 @@
+[{
+  "id": "1",
+  "passengerid": "1",
+  "location": {
+    "start_location": "Waltham, MA",
+    "end_location": "Boston Logan"
+  },
+  "startTime": "Jan 01 2017, 3:30 PM",
+  "endTime": "Jan 01 2017, 4:00 PM"
+}, {
+  "id": "2",
+  "passengerid": "1",
+  "location": {
+    "start_location": "San Francisco Airport, CA",
+    "end_location": "Trimble Rd, Sanjose CA"
+  },
+  "startTime": "Jan 02 2017, 10:30 AM",
+  "endTime": "Jan 02 2017, 11:30 AM"
+}]
